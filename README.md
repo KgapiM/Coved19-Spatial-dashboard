@@ -5,13 +5,15 @@ Institution: University of the Witwatersrand
 Presentation date: 26 October 2026
 Project links
 Open the live dashboard - https://khathucry.shinyapps.io/Covid19/ 
+
 View the GitHub repository - https://github.com/KgapiM/Coved19-Spatial-dashboard
+
 Group members
-Group member	Student number
-Khutso Makobela	1370561
-K Lydia Moukangwe	554423
-Khathutshelo Maumela	871907
-Veronica Sikhosana	0105163x
+Khutso Makobela-1370561
+K Lydia Moukangwe-554423
+Khathutshelo Maumela-871907
+Veronica Sikhosana-0105163x
+
 Research questions
 Does reported COVID-19 burden show overall spatial association across South Africa’s nine provinces?
 Which provinces form significant local clusters or spatial outliers?
